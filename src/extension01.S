@@ -174,7 +174,7 @@ entry:
     // QUESTION: What is the value currently stored on the top of the 
     // stack? Replace "0" in the line below with your answer.
 
-    ldi r16, 5
+    ldi r16, 2
 
     call avremu_r16out
 
@@ -201,7 +201,7 @@ entry:
     // instruction is skipped by the programme). Replace "0" in the 
     // line below with your answer.
 
-    ldi r16, 2
+    ldi r16, 5
 
     call avremu_r16out
 
