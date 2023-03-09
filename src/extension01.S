@@ -79,7 +79,7 @@ entry:
     // what is the value contained in R16? Replace "0" in the line 
     // below with your answer.
 
-    ldi r16, 44
+    ldi r16, 130
 	
     call avremu_r16out
 
