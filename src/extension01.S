@@ -105,7 +105,7 @@ entry:
     // point in the programme? Replace "0" in the line below with your 
     // answer.
 
-    ldi r16, 11
+    ldi r16, 24
 	
     call avremu_r16out
 
